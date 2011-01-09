@@ -112,7 +112,7 @@ App::redisp::EvalWithLexicals
 
 =head1 VERSION
 
-version 0.1
+version 0.11
 
 =head1 SYNOPSIS
 
@@ -162,7 +162,7 @@ App::redisp::EvalWithLexicals - pure perl eval with persistent lexical variables
 
 =head1 VERSION
 
-version 0.1
+version 0.11
 
 =head1 METHODS
 

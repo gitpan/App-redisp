@@ -26,7 +26,7 @@ my %WriteMakefileArgs = (
     'Moo' => '0',
     'Tie::Redis' => '0'
   },
-  'VERSION' => '0.1',
+  'VERSION' => '0.11',
   'test' => {
     'TESTS' => 't/*.t'
   }

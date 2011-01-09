@@ -1,6 +1,6 @@
 package App::redisp::Commands;
 BEGIN {
-  $App::redisp::Commands::VERSION = '0.1';
+  $App::redisp::Commands::VERSION = '0.11';
 }
 use strict;
 use base "Exporter";
@@ -140,7 +140,7 @@ App::redisp::Commands
 
 =head1 VERSION
 
-version 0.1
+version 0.11
 
 =head1 AUTHOR
 
